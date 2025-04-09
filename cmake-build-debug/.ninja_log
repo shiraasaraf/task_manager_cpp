@@ -1,0 +1,10 @@
+# ninja log v5
+1066	1317	7659417989902084	task_manager.exe	25d64a9e6c82ad7c
+1	1022	7659417986993414	CMakeFiles/task_manager.dir/main.cpp.obj	8cc1402c45b141b3
+12	1065	7659417987420381	CMakeFiles/task_manager.dir/Task.cpp.obj	887336695a43ee6a
+1	115	7659425305933764	build.ninja	43877abb44ec9aa7
+5	360	7659425309809018	CMakeFiles/task_manager.dir/menu.cpp.obj	345690e1ae115ae2
+3	390	7659425310089003	CMakeFiles/task_manager.dir/main.cpp.obj	8cc1402c45b141b3
+390	497	7659425311129237	task_manager.exe	762cb5d69df1ed39
+3	424	7659434810291197	CMakeFiles/task_manager.dir/main.cpp.obj	8cc1402c45b141b3
+424	530	7659434811311361	task_manager.exe	762cb5d69df1ed39
